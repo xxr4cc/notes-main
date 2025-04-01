@@ -1,0 +1,6 @@
+export { Languages } from './Languages'
+export { DeleteNote } from './DeleteNote'
+export { UpdateCategory } from './UpdateCategory'
+export { Categories } from './Categories'
+export { AddPassword } from './AddPassword'
+export { UpdatePassword } from './UpdatePassword'
